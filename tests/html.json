@@ -1,0 +1,67 @@
+[
+{
+	"id":"0",
+	"Question":"Маше хочется, чтобы при наведении мыши на изображение, появлялась всплывающая подсказка с текстом Подсказка. Какой валидный код XHTML 1.1 для этого используется?",
+	"Answers": [
+		{
+		"Correct_answer":"<img src='foto.jpg' alt='Изображение' title='Подсказка' />",
+		"Answer0":"<img src='foto.jpg' alt='Изображение' title='Подсказка' />",
+		"Answer1":"<img href='foto.jpg' />",
+		"Answer2":"<img src='foto' alt='Изображение' title='Подсказка' />",
+		"Answer3":"<img src='foto.jpg' alt='Изображение' title='Изображение' />"
+		}
+	]
+},
+{
+	"id":"1",
+	"Question":"Какой тег существует:",
+	"Answers": [
+		{
+		"Correct_answer":"<code>",
+		"Answer0":"<bd />",
+		"Answer1":"<file />",
+		"Answer2":"<type>",
+		"Answer3":"<code>"
+		}
+	]
+},
+{
+	"id":"2",
+	"Question":"Какой тег является дочерним для <!DOCTYPE>:",
+	"Answers": [
+		{
+		"Correct_answer":"Никакой.",
+		"Answer0":"<html>",
+		"Answer1":"<body>",
+		"Answer2":"Никакой.",
+		"Answer3":"<title>"
+		}
+	]
+},
+{
+	"id":"3",
+	"Question":"Какой вариант написан с ошибкой?",
+	"Answers": [
+		{
+		"Correct_answer":"<ol type='N'>",
+		"Answer0":"<ol type='A'>",
+		"Answer1":"<ol type='N'>",
+		"Answer2":"<ol type='I'>",
+		"Answer3":"<ol type='1'>"
+		}
+	]
+},
+{
+	"id":"4",
+	"Question":"Какой тег нужно добавить для переноса строки, сохранив при этом валидность XHTML 1.1?",
+	"Answers": [
+		{
+		"Correct_answer":"<br />",
+		"Answer0":"<p>",
+		"Answer1":"<hr />",
+		"Answer2":"<ul>",
+		"Answer3":"<br />"
+		}
+	]
+}
+]
